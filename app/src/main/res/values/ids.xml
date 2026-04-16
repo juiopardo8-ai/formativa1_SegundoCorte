@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nombre" type="id" />
+    <item name="edad" type="id" />
+    <item name="spinner" type="id" />
+    <item name="btnGuardado" type="id" />
+</resources>
